@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Fullstack Developer | 🌐 AI/ML Enthusiast | ☕ Java & JS Explorer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y-dilshan&label=Profile%20views&color=0e75b6&style=flat" alt="y-dilshan" /> </p>
-
+---
 - 🔭 I’m currently working on **Java & JavaScript**
 
 - 🌱 I’m currently learning **Spring Boot & React**
