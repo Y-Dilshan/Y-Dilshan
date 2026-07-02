@@ -1,81 +1,56 @@
-<h1 align="center">Hi 👋, I'm Yasindu Dilshan</h1>
-<h3 align="center">🚀 BSc Software Engineering | 🌐 Aspiring Project Manager | Aspiring AI Developer</h3>
+<h1 align="center">Hi there, I'm Yasindu Dilshan 👋</h1>
+
+<h3 align="center">Software Engineering Undergraduate @ Sabaragamuwa University of Sri Lanka</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=y-dilshan&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7B32B&center=true&vCenter=true&width=600&lines=Coding+in+Java+%26+JavaScript;Learning+Spring+Boot+%26+React;Open+to+Open+Source+Collaboration;Call+me+Yasindu+%F0%9F%98%84" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=y-dilshan" />
-  </a>
-</p>
-
-- 🌱 I’m currently learning **MERN, Spring Boot**  
-- 👨‍💻 All of my projects:  
-  👉 https://y-dilshan.github.io/My-Portfolio/  
-- 📫 Reach me: **dilshanyasindu23@gmail.com**  
-- ⚡ Fun fact: **Yasi**
-
----
-
-<h3 align="center">Connect with me</h3>
-
-<p align="center">
-<a href="https://linkedin.com/in/yasindu dilshan">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" style="margin:12px"/>
-</a>
-<a href="https://fb.com/yasindu dilshan">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" style="margin:12px"/>
-</a>
-<a href="https://instagram.com/yasindu dilshan">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" style="margin:12px"/>
-</a>
+  <a href="https://www.linkedin.com/in/yasindu-dilshan-30143b330" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Y-Dilshan" target="_blank"><img src="https://img.shields.io/badge/GitHub-Y--Dilshan-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-<h3 align="center">Languages & Tools</h3>
+### 🚀 About Me
+
+- 🎓 Software Engineering undergraduate at **Sabaragamuwa University of Sri Lanka**
+- 🔭 Currently working on **Java & JavaScript**
+- 🌱 Currently learning **Spring Boot & React**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yasindu-dilshan-30143b330)
+- ⚡ Fun fact: just call me **Yasindu**!
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="center">
-
-<a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" style="margin:12px"/></a>
-<a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" style="margin:12px"/></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" style="margin:12px"/></a>
-<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" style="margin:12px"/></a>
-<a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" style="margin:12px"/></a>
-<a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" style="margin:12px"/></a>
-<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" style="margin:12px"/></a>
-<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" style="margin:12px"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" style="margin:12px"/></a>
-<a href="https://kotlinlang.org"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" style="margin:12px"/></a>
-<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" style="margin:12px"/></a>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" style="margin:12px"/></a>
-<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" style="margin:12px"/></a>
-<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" style="margin:12px"/></a>
-<a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" style="margin:12px"/></a>
-<a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" style="margin:12px"/></a>
-<a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" style="margin:12px"/></a>
-<a href="https://reactjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" style="margin:12px"/></a>
-<a href="https://reactnative.dev"><img src="https://reactnative.dev/img/header_logo.svg" width="40" style="margin:12px"/></a>
-<a href="https://scikit-learn.org"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" style="margin:12px"/></a>
-<a href="https://spring.io"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" style="margin:12px"/></a>
-<a href="https://tailwindcss.com"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" style="margin:12px"/></a>
-
+  <img src="https://skillicons.dev/icons?i=java,js,spring,react,html,css,git,github,vscode,mysql" />
 </p>
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=y-dilshan&show_icons=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Y-Dilshan&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y-Dilshan&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=y-dilshan&layout=compact&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Y-Dilshan&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=y-dilshan&theme=default" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Y-Dilshan&theme=redical&hide_border=true" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Y-Dilshan&label=Profile%20Views&color=F7B32B&style=flat" alt="profile views" />
+</p>
+
+<p align="center"><i>⭐️ From <a href="https://github.com/Y-Dilshan">Y-Dilshan</a> — thanks for stopping by!</i></p>
