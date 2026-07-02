@@ -27,37 +27,43 @@
 
 <h3 align="center">🎨 Frontend Development</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,tailwind,ts" />
 </p>
 
-<h3 align="center">📱 Mobile Development</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter" />
-</p>
+---
 
 <h3 align="center">⚙️ Backend Development</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring" />
+  <img src="https://skillicons.dev/icons?i=php,python,cs,java,spring,nodejs,express,ts" />
 </p>
+
+---
+
+<h3 align="center">📱 Mobile Development</h3>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" alt="React Native" />
+  <img src="https://cdn.simpleicons.org/expo/000020" width="48" height="48" alt="Expo" />
+</p>
+
+---
 
 <h3 align="center">🗄️ Databases & ORMs</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,hibernate,mongodb" />
 </p>
+
+---
 
 <h3 align="center">🤖 Machine Learning / AI</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,numpy" />
 </p>
 
-<h3 align="center">🛠️ Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+---
 
-<h3 align="center">🚀 DevOps & Environment</h3>
+<h3 align="center">🛠️ Tools, DevOps & Environment</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,aws" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,postman" />
 </p>
 
 ---
@@ -74,7 +80,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Y-Dilshan&theme=redical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Y-Dilshan&theme=radical&hide_border=true" />
 </p>
 
 ---
