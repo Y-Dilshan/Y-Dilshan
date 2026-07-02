@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasindu Dilshan</h1>
-<h3 align="center">🚀 Software Engineering Undergraduate | ☕ Java & JavaScript Explorer | 🌱 Spring Boot & React Learner</h3>
+<h3 align="center">🚀 Software Engineering Undergraduate | 🚀 Fullstack Engineer | 🌐 AI/ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7B32B&center=true&vCenter=true&width=600&lines=Coding+in+Java+%26+JavaScript;Learning+Spring+Boot+%26+React;Open+to+Open+Source+Collaboration;Call+me+Yasindu+%F0%9F%98%84" alt="Typing SVG" />
@@ -27,7 +27,7 @@
 
 <h3 align="center">🎨 Frontend Development</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,tailwind,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,tailwind,ts,figma" />
 </p>
 
 ---
