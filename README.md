@@ -80,7 +80,7 @@
 </p>
 
 <p align="center">
-  <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=Y-Dilshan&theme=radical&hide_border=true" />
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=Y-Dilshan&bg_color=141321&color=f8567f&line=f8567f&point=ffffff&area=true&area_color=f8567f&hide_border=true" />
 </p>
 
 ---
